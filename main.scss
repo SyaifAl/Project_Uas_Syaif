@@ -1,0 +1,14 @@
+$theme-colors:(
+  "primer": #968264,
+  "sekunder": #f5f2e8,
+  "bg1": #f6f6f6,
+  "bg2": #20774d,
+  "text1": #0f0e0e,
+  "text2": #0f0e0ec7,
+  "text3": #0f0e0e7f,
+  "danger": red,
+);
+
+
+//import bootstrap
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
